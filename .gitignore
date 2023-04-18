@@ -21,6 +21,8 @@ sdist/
 var/
 wheels/
 pip-wheel-metadata/
+
+aina-keys.sh
 share/python-wheels/
 *.egg-info/
 .installed.cfg
